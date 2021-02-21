@@ -1,0 +1,1 @@
+I'm trying to create a fully scallable project, to do so, I'll try to use a similar approach of what vue does.
