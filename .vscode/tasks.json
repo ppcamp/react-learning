@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "react-guide/",
+			"problemMatcher": [],
+			"label": "npm start",
+			"detail": "react-scripts start",
+			"isBackground": true
+		}
+	]
+}

@@ -2,7 +2,9 @@
 
 A repository to put all the content created when I was learning React. The contents are based on "React - The complete Guide"
 
-
+To debug this project:
+- Run the `npm start`
+- Run the debugger (*firefox debugger*)
 
 You should download the `create-react-app` npm package
 
